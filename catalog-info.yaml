@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fourkeys
+  description: Fork of DevOps Research Assessment (DORA) tooling for gathering metrics related to the "four keys" from git.
+  tags:
+    - dora
+  links:
+    - url: https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling
+      title: DORA
+      icon: dashboard
+spec:
+  type: website
+  lifecycle: nonproduction
+  owner: cloud-sig
+  system: public-cloud
