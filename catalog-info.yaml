@@ -4,7 +4,7 @@ metadata:
   name: fourkeys
   description: Fork of DevOps Research Assessment (DORA) tooling for gathering metrics related to the "four keys" from git.
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master
+    backstage.io/techdocs-ref: url:https://github.com/paulm-jones/fourkeys
   tags:
     - dora
   links:
