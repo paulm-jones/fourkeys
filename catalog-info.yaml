@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: fourkeys
   description: Fork of DevOps Research Assessment (DORA) tooling for gathering metrics related to the "four keys" from git.
+  annotations:
+    backstage.io/techdocs-ref: value
   tags:
     - dora
   links:
